@@ -1,0 +1,13 @@
+SAMPLE_NAMES,desc1,DESCRIPTION_1,DESCRIPTION_2,CELLS,SETS,TIME
+GSM1513643_0w_225_CD8.CEL.gz,225,CD8+ T cells: healthy uninfected macaque,biological rep 1,CD8+ T,uninfected,0
+GSM1513644_0w_292_CD8.CEL.gz,292,CD8+ T cells: healthy uninfected macaque,biological rep 2,CD8+ T,uninfected,0
+GSM1513645_0w_211_CD8.CEL.gz,211,CD8+ T cells: healthy uninfected macaque,biological rep 3,CD8+ T,uninfected,0
+GSM1513646_0w_256_CD8.CEL.gz,256,CD8+ T cells: healthy uninfected macaque,biological rep 4,CD8+ T,uninfected,0
+GSM1513647_0w_286_CD8.CEL.gz,286,CD8+ T cells: healthy uninfected macaque,biological rep 5,CD8+ T,uninfected,0
+GSM1513648_0w_290_CD8.CEL.gz,290,CD8+ T cells: healthy uninfected macaque,biological rep 6,CD8+ T,uninfected,0
+GSM1513670_3w_pi_100_CD8.CEL.gz,100-98,CD8+ T cells: SIVmac251 infected macaque, 3 weeks post-infection biological rep 1,CD8+ T,infected,3
+GSM1513671_3w_pi_120_CD8.CEL.gz,120-05,CD8+ T cells: SIVmac251 infected macaque, 3 weeks post-infection biological rep 2,CD8+ T,infected,3
+GSM1513672_3w_pi_289_CD8.CEL.gz,289-07,CD8+ T cells: SIVmac251 infected macaque, 3 weeks post-infection biological rep 3,CD8+ T,infected,3
+GSM1513673_3w_pi_291_CD8.CEL.gz,291-04,CD8+ T cells: SIVmac251 infected macaque, 3 weeks post-infection biological rep 4,CD8+ T,infected,3
+GSM1513674_3w_pi_321_CD8.CEL.gz,321-04,CD8+ T cells: SIVmac251 infected macaque, 3 weeks post-infection biological rep 5,CD8+ T,infected,3
+GSM1513675_3w_pi_401_CD8.CEL.gz,401-00,CD8+ T cells: SIVmac251 infected macaque, 3 weeks post-infection biological rep 6,CD8+ T,infected,3

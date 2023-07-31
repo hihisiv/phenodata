@@ -1,0 +1,9 @@
+SAMPLE_NAMES,DESCRIPTION,SETS,INFORMATION,SIV INFECTED
+GSM1245692_SIVneg_33832_TNG.CEL.gz, healthy uninfected macaque biological rep 1, neg,biological rep 1, free-range living animals
+GSM1245693_SIVneg_34249_TNG.CEL.gz, healthy uninfected macaque biological rep 2, neg,biological rep 2, free-range living animals
+GSM1245694_SIVneg_34816_TNG.CEL.gz, healthy uninfected macaque biological rep 3, neg,biological rep 3, free-range living animals
+GSM1245695_SIVpos_34030_TNG.CEL.gz, SIV infected macaque biological rep 1, pos,biological rep 1, free-range living animals
+GSM1245696_SIVpos_34967_TNG.CEL.gz, SIV infected macaque biological rep 2, pos,biological rep 2, free-range living animals
+GSM1245697_SIVpos_34995_TNG.CEL.gz, SIV infected macaque biological rep 3, pos,biological rep 3, free-range living animals
+GSM1245698_SIVpos_35470_TNG.CEL.gz, SIV infected macaque biological rep 4, pos,biological rep 4, free-range living animals
+GSM1245699_SIVpos_35804_TNG.CEL.gz, SIV infected macaque biological rep 5, pos,biological rep 5, free-range living animals

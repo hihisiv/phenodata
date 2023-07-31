@@ -1,0 +1,11 @@
+SAMPLE_NAME,DESCRIPTION,CELLS,SETS,SEX,SAMPLE,DURATION_OF_INF(~MONTHS),AGE_(years)
+GSM155228.CEL.gz,Human Uninfected Sample N001-CD4+ T cells,CD4,Uninfected,male,N1,42,NA
+GSM155230.CEL.gz,Human Uninfected Sample N050-CD4+ T cells,CD4,Uninfected,male,N2,27,NA
+GSM155233.CEL.gz,Human Uninfected Sample N071-CD4+ T cells,CD4,Uninfected,male,N3,34,NA
+GSM155235.CEL.gz,Human Uninfected Sample N110-CD4+ T cells,CD4,Uninfected,male,N4,43,NA
+GSM155237.CEL.gz,Human Uninfected Sample N141-CD4+ T cells,CD4,Uninfected,male,N5,32,NA
+GSM155218.CEL.gz,Human Non-progressor HIV Sample L004-CD4+ T cells,CD4,Non-progressor,male,L1,59,15
+GSM155220.CEL.gz,Human Non-progressor HIV Sample L015-CD4+ T cells,CD4,Non-progressor,male,L2,39,11
+GSM155222.CEL.gz,Human Non-progressor HIV Sample L115-CD4+ T cells,CD4,Non-progressor,male,L3,34,9
+GSM155224.CEL.gz,Human Non-progressor HIV Sample L128-CD4+ T cells,CD4,Non-progressor,male,L4,29,3.5
+GSM155226.CEL.gz,Human Non-progressor HIV Sample L134-CD4+ T cells,CD4,Non-progressor,male,L5,44,12

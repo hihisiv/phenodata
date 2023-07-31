@@ -1,0 +1,9 @@
+SAMPLE,SAMPLE_NAME,SAMPLE_ID,SAMPLE_ORGAN,SETS
+FRs_SIVsmm_day.5,GSM404478.CEL.gz,SM_FRs_SIVsmm_day-5,blood,PreInfection
+FUv_SIVsmm_day.5,GSM404479.CEL.gz,SM_FUv_SIVsmm_day-5,blood,PreInfection
+FFs_SIVsmm_day.5,GSM404480.CEL.gz,SM_FFs_SIVsmm_day-5,blood,PreInfection
+FRs_SIVsmm_day180,GSM404529.CEL.gz,SM_FRs_SIVsmm_day180,blood,Chronic
+FUv_SIVsmm_day180,GSM404530.CEL.gz,SM_FUv_SIVsmm_day180,blood,Chronic
+FFs_SIVsmm_day180,GSM404531.CEL.gz,SM_FFs_SIVsmm_day180,blood,Chronic
+FWv_SIVsmm_day180,GSM404532.CEL.gz,SM_FWv_SIVsmm_day180,blood,Chronic
+FSs_SIVsmm_day180,GSM404534.CEL.gz,SM_FSs_SIVsmm_day180,blood,Chronic

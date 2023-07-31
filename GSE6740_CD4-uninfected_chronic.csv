@@ -1,0 +1,11 @@
+SAMPLE_NAME,DESCRIPTION,CELLS,SETS,SEX,SAMPLE,DURATION_OF_INF(~MONTHS),AGE_(years)
+GSM155228.CEL.gz,Human Uninfected Sample N001-CD4+ T cells,CD4,Uninfected,male,N1,42,NA
+GSM155230.CEL.gz,Human Uninfected Sample N050-CD4+ T cells,CD4,Uninfected,male,N2,27,NA
+GSM155233.CEL.gz,Human Uninfected Sample N071-CD4+ T cells,CD4,Uninfected,male,N3,34,NA
+GSM155235.CEL.gz,Human Uninfected Sample N110-CD4+ T cells,CD4,Uninfected,male,N4,43,NA
+GSM155237.CEL.gz,Human Uninfected Sample N141-CD4+ T cells,CD4,Uninfected,male,N5,32,NA
+GSM155189.CEL.gz,Human Chronic HIV Sample C062-CD4+ T cells,CD4,Chronic,male,C1,36,> 1
+GSM155192.CEL.gz,Human Chronic HIV Sample C080-CD4+ T cells,CD4,Chronic,male,C2,40,7
+GSM155200.CEL.gz,Human Chronic HIV Sample C101-CD4+ T cells,CD4,Chronic,male,C3,32,> 2
+GSM155202.CEL.gz,Human Chronic HIV Sample C102-CD4+ T cells,CD4,Chronic,male,C4,33,> 3
+GSM155204.CEL.gz,Human Chronic HIV Sample C138-CD4+ T cells,CD4,Chronic,male,C5,39,2

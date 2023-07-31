@@ -1,0 +1,11 @@
+SAMPLE_NAME,DESCRIPTION,CELLS,SETS,SEX,SAMPLE,DURATION_OF_INF(~MONTHS),AGE_(years)
+GSM155228.CEL.gz,Human Uninfected Sample N001-CD4+ T cells,CD4,Uninfected_CD4,male,N1,42,NA
+GSM155230.CEL.gz,Human Uninfected Sample N050-CD4+ T cells,CD4,Uninfected_CD4,male,N2,27,NA
+GSM155233.CEL.gz,Human Uninfected Sample N071-CD4+ T cells,CD4,Uninfected_CD4,male,N3,34,NA
+GSM155235.CEL.gz,Human Uninfected Sample N110-CD4+ T cells,CD4,Uninfected_CD4,male,N4,43,NA
+GSM155237.CEL.gz,Human Uninfected Sample N141-CD4+ T cells,CD4,Uninfected_CD4,male,N5,32,NA
+GSM155229.CEL.gz,Human Uninfected Sample N001-CD8+ T cells,CD8,Uninfected_CD8,male,N1,42,NA
+GSM155232.CEL.gz,Human Uninfected Sample N050-CD8+ T cells,CD8,Uninfected_CD8,male,N2,27,NA
+GSM155234.CEL.gz,Human Uninfected Sample N071-CD8+ T cells,CD8,Uninfected_CD8,male,N3,34,NA
+GSM155236.CEL.gz,Human Uninfected Sample N110-CD8+ T cells,CD8,Uninfected_CD8,male,N4,43,NA
+GSM155238.CEL.gz,Human Uninfected Sample N141-CD8+ T cells,CD8,Uninfected_CD8,male,N5,32,NA

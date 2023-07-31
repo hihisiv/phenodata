@@ -1,0 +1,11 @@
+SAMPLE_NAME,DESCRIPTION,CELLS,SETS,SEX,SAMPLE,DURATION_OF_INF(~MONTHS),AGE_(years)
+GSM155219.CEL.gz,Human Non-progressor HIV Sample L004-CD8+ T cells,CD8,Non-progressor_CD8,male,L1,59,15
+GSM155221.CEL.gz,Human Non-progressor HIV Sample L015-CD8+ T cells,CD8,Non-progressor_CD8,male,L2,39,11
+GSM155223.CEL.gz,Human Non-progressor HIV Sample L115-CD8+ T cells,CD8,Non-progressor_CD8,male,L3,34,9
+GSM155225.CEL.gz,Human Non-progressor HIV Sample L128-CD8+ T cells,CD8,Non-progressor_CD8,male,L4,29,3.5
+GSM155227.CEL.gz,Human Non-progressor HIV Sample L134-CD8+ T cells,CD8,Non-progressor_CD8,male,L5,44,12
+GSM155179.CEL.gz,Human Acute HIV Sample A044-CD8+ T cells,CD8,Acute_CD8,male,A1,2,25
+GSM155181.CEL.gz,Human Acute HIV Sample A051-CD8+ T cells,CD8,Acute_CD8,male,A2,3,49
+GSM155183.CEL.gz,Human Acute HIV Sample A064-CD8+ T cells,CD8,Acute_CD8,male,A3,5,26
+GSM155185.CEL.gz,Human Acute HIV Sample A144-CD8+ T cells,CD8,Acute_CD8,male,A4,1,27
+GSM155187.CEL.gz,Human Acute HIV Sample A189-CD8+ T cells,CD8,Acute_CD8,male,A5,4,32

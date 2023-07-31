@@ -1,0 +1,7 @@
+SAMPLE_NAME,SAMPLE,DESCRIPTION,SETS1,SETS2,SETS
+GSM1249380_JEJ_UI_30292.CEL.gz,GSM1249380,Jejunum tissue: healthy uninfected macaque biological rep 1,Jejunum,uninfected,Jejunum_uninfected
+GSM1249381_JEJ_UI_30327.CEL.gz,GSM1249381,Jejunum tissue: healthy uninfected macaque biological rep 2,Jejunum,uninfected,Jejunum_uninfected
+GSM1249382_JEJ_UI_32963.CEL.gz,GSM1249382,Jejunum tissue: healthy uninfected macaque biological rep 3,Jejunum,uninfected,Jejunum_uninfected
+GSM1249391_LNG_UI_30327.CEL.gz,GSM1249391,Lung tissue: healthy uninfected macaque biological rep 1,Lung,uninfected,Lung_uninfected
+GSM1249392_LNG_UI_33675.CEL.gz,GSM1249392,Lung tissue: healthy uninfected macaque biological rep 2,Lung,uninfected,Lung_uninfected
+GSM1249393_LNG_UI_34249.CEL.gz,GSM1249393,Lung tissue: healthy uninfected macaque biological rep 3,Lung,uninfected,Lung_uninfected

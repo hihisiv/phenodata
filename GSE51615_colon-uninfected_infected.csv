@@ -1,0 +1,8 @@
+SAMPLE_NAME,SAMPLE,DESCRIPTION,SETS1,SETS2,SETS
+GSM1249369_COL_UI_30327.CEL.gz,GSM1249369,Colon tissue: healthy uninfected macaque biological rep 1,Colon,uninfected,Colon_uninfected
+GSM1249370_COL_UI_33675.CEL.gz,GSM1249370,Colon tissue: healthy uninfected macaque biological rep 2,Colon,uninfected,Colon_uninfected
+GSM1249371_COL_UI_34249.CEL.gz,GSM1249371,Colon tissue: healthy uninfected macaque biological rep 3,Colon,uninfected,Colon_uninfected
+GSM1249365_COL_NT_29943.CEL.gz,GSM1249365,Colon tissue: SIV infected; untreated macaque biological rep 1,Colon,infected,Colon_infected
+GSM1249366_COL_NT_30085.CEL.gz,GSM1249366,Colon tissue: SIV infected; untreated macaque biological rep 2,Colon,infected,Colon_infected
+GSM1249367_COL_NT_30266.CEL.gz,GSM1249367,Colon tissue: SIV infected; untreated macaque biological rep 3,Colon,infected,Colon_infected
+GSM1249368_COL_NT_31353.CEL.gz,GSM1249368,Colon tissue: SIV infected; untreated macaque biological rep 4,Colon,infected,Colon_infected

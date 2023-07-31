@@ -1,0 +1,8 @@
+SAMPLE_NAMES,DESCRIPTION,SETS2,SETS2,REPLICATES,SETS3,SETS4,NAME,SETS
+GSM2610575_2_CM07_Pre_14+16+.CEL.gz,CD14++CD16+ monocytes; before SIV infection; biological rep 3,CD14PlusPlusCD16Plus,Before,Rep_3,CD14++CD16+_Before,CD14++CD16+_Before_Rep_3,CM07,preInfection
+GSM2610578_8_DB79_Pre_14+16+.CEL.gz,CD14++CD16+ monocytes; before SIV infection; biological rep 1,CD14PlusPlusCD16Plus,Before,Rep_1,CD14++CD16+_Before,CD14++CD16+_Before_Rep_1,DB79,preInfection
+GSM2610581_14_FB92_Pre_14+16+.CEL.gz,CD14++CD16+ monocytes; before SIV infection; biological rep 2,CD14PlusPlusCD16Plus,Before,Rep_2,CD14++CD16+_Before,CD14++CD16+_Before_Rep_2,FB92,preInfection
+GSM2610584_20_FD05_Pre_14+16+.CEL.gz,CD14++CD16+ monocytes; before SIV infection; biological rep 4,CD14PlusPlusCD16Plus,Before,Rep_4,CD14++CD16+_Before,CD14++CD16+_Before_Rep_4,FD05,preInfection
+GSM2610577_6_CM07_Nx_14+16+.CEL.gz,CD14++CD16+ monocytes; SIV infection at necropsy with AIDS; biological rep 3,CD14PlusPlusCD16Plus,AIDS,Rep_3,CD14++CD16+_AIDS,CD14++CD16+_AIDS_Rep_3,CM07,chronic
+GSM2610580_12_DB79_Nx_14+16+.CEL.gz,CD14++CD16+ monocytes; SIV infection at necropsy with AIDS; biological rep 1,CD14PlusPlusCD16Plus,AIDS,Rep_1,CD14++CD16+_AIDS,CD14++CD16+_AIDS_Rep_1,DB79,chronic
+GSM2610583_18_FB92_Nx_14+16+.CEL.gz,CD14++CD16+ monocytes; SIV infection at necropsy with AIDS; biological rep 2,CD14PlusPlusCD16Plus,AIDS,Rep_2,CD14++CD16+_AIDS,CD14++CD16+_AIDS_Rep_2,FB92,chronic

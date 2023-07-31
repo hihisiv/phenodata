@@ -1,0 +1,13 @@
+SAMPLE_NAME,SAMPLE_ID,Species,SAMPLE_ORGAN,SETS,SETS2
+GSM440057.CEL.gz,Cercocebus atys uninfected LN-FRs-replicate-1,SM,Lymph Node (LN) biopsies,uninfected,uninfected
+GSM440058.CEL.gz,Cercocebus atys uninfected LN-FRs-replicate-2,SM,Lymph Node (LN) biopsies,uninfected,uninfected
+GSM440059.CEL.gz,Cercocebus atys uninfected LN-Fuv-replicate-1,SM,Lymph Node (LN) biopsies,uninfected,uninfected
+GSM440060.CEL.gz,Cercocebus atys uninfected LN-Fuv-replicate-2,SM,Lymph Node (LN) biopsies,uninfected,uninfected
+GSM440061.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FRs-replicate-1,SM,Lymph Node (LN) biopsies,infected,infected_14
+GSM440062.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FRs-replicate-2,SM,Lymph Node (LN) biopsies,infected,infected_14
+GSM440063.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FWv-replicate-1,SM,Lymph Node (LN) biopsies,infected,infected_14
+GSM440064.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FWv-replicate-2,SM,Lymph Node (LN) biopsies,infected,infected_14
+GSM440065.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-Fuv-replicate-1,SM,Lymph Node (LN) biopsies,infected,infected_30
+GSM440066.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-Fuv-replicate-2,SM,Lymph Node (LN) biopsies,infected,infected_30
+GSM440067.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-FWv-replicate-1,SM,Lymph Node (LN) biopsies,infected,infected_30
+GSM440068.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-FWv-replicate-2,SM,Lymph Node (LN) biopsies,infected,infected_30

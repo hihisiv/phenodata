@@ -1,0 +1,9 @@
+SAMPLE,SAMPLE_NAME,SAMPLE_ORGAN,TIME,SETS
+RM1_SIVnegative_ColorectalTissue,GSM742045.CEL.gz,colorectalTissue,-1,preInfection
+RM2_SIVnegative_ColorectalTissue,GSM742046.CEL.gz,colorectalTissue,-1,preInfection
+RM3_SIVnegative_ColorectalTissue,GSM742047.CEL.gz,colorectalTissue,-1,preInfection
+RM4_SIVnegative_ColorectalTissue,GSM742048.CEL.gz,colorectalTissue,-1,preInfection
+RM5_Week12postSIV_ColorectalTissue,GSM742049.CEL.gz,colorectalTissue,12,acute
+RM6_Week12postSIV_ColorectalTissue,GSM742050.CEL.gz,colorectalTissue,12,acute
+RM7_Week12postSIV_ColorectalTissue,GSM742051.CEL.gz,colorectalTissue,12,acute
+RM8_Week12postSIV_ColorectalTissue,GSM742052.CEL.gz,colorectalTissue,12,acute

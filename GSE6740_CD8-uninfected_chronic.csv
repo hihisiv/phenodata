@@ -1,0 +1,11 @@
+SAMPLE_NAME,DESCRIPTION,CELLS,SETS,SEX,SAMPLE,DURATION_OF_INF(~MONTHS),AGE_(years)
+GSM155229.CEL.gz,Human Uninfected Sample N001-CD8+ T cells,CD8,Uninfected,male,N1,42,NA
+GSM155232.CEL.gz,Human Uninfected Sample N050-CD8+ T cells,CD8,Uninfected,male,N2,27,NA
+GSM155234.CEL.gz,Human Uninfected Sample N071-CD8+ T cells,CD8,Uninfected,male,N3,34,NA
+GSM155236.CEL.gz,Human Uninfected Sample N110-CD8+ T cells,CD8,Uninfected,male,N4,43,NA
+GSM155238.CEL.gz,Human Uninfected Sample N141-CD8+ T cells,CD8,Uninfected,male,N5,32,NA
+GSM155190.CEL.gz,Human Chronic HIV Sample C062-CD8+ T cells,CD8,Chronic,male,C1,36,> 1
+GSM155195.CEL.gz,Human Chronic HIV Sample C080-CD8+ T cells,CD8,Chronic,male,C2,40,7
+GSM155201.CEL.gz,Human Chronic HIV Sample C101-CD8+ T cells,CD8,Chronic,male,C3,32,> 2
+GSM155203.CEL.gz,Human Chronic HIV Sample C102-CD8+ T cells,CD8,Chronic,male,C4,33,> 3
+GSM155206.CEL.gz,Human Chronic HIV Sample C138-CD8+ T cells,CD8,Chronic,male,C5,39,2

@@ -1,0 +1,17 @@
+SAMPLE_NAME,SAMPLE_ID,Species,SAMPLE_ORGAN,SETS
+GSM440069.CEL.gz,Macaca mulatta uninfected LN-RYe8-replicate-1,RM,Lymph Node (LN) biopsies,uninfected
+GSM440070.CEL.gz,Macaca mulatta uninfected LN-RYe8-replicate-2,RM,Lymph Node (LN) biopsies,uninfected
+GSM440071.CEL.gz,Macaca mulatta uninfected LN-RF8-replicate-1,RM,Lymph Node (LN) biopsies,uninfected
+GSM440072.CEL.gz,Macaca mulatta uninfected LN-RF8-replicate-2,RM,Lymph Node (LN) biopsies,uninfected
+GSM440073.CEL.gz,Macaca mulatta uninfected LN-34550-replicate-1,RM,Lymph Node (LN) biopsies,uninfected
+GSM440074.CEL.gz,Macaca mulatta uninfected LN-34550-replicate-2,RM,Lymph Node (LN) biopsies,uninfected
+GSM440075.CEL.gz,Macaca mulatta uninfected LN-31391-replicate-1,RM,Lymph Node (LN) biopsies,uninfected
+GSM440076.CEL.gz,Macaca mulatta uninfected LN-31391-replicate-2,RM,Lymph Node (LN) biopsies,uninfected
+GSM440077.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R00034-replicate-1,RM,Lymph Node (LN) biopsies,infected
+GSM440078.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R00034-replicate-2,RM,Lymph Node (LN) biopsies,infected
+GSM440079.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-24037-replicate-1,RM,Lymph Node (LN) biopsies,infected
+GSM440080.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-24037-replicate-2,RM,Lymph Node (LN) biopsies,infected
+GSM440081.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R93047-replicate-1,RM,Lymph Node (LN) biopsies,infected
+GSM440082.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R93047-replicate-2,RM,Lymph Node (LN) biopsies,infected
+GSM440083.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R98032-replicate-1,RM,Lymph Node (LN) biopsies,infected
+GSM440084.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R98032-replicate-2,RM,Lymph Node (LN) biopsies,infected

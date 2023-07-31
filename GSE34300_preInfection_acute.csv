@@ -1,0 +1,7 @@
+SAMPLE_NAME,SAMPLE,NAME,Tissue,Species,Cell type,SETS,TIME
+GSM846893_DN85_Pre_LPL.CEL.gz,DN85 Pre LPL,DN85,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,Pre-infection,PreInf
+GSM846896_EB31Pre_LPL.CEL.gz,EB31 Pre LPL,EB31,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,Pre-infection,PreInf
+GSM846899_ED13_Pre_LPL.CEL.gz,ED13 Pre LPL,ED13,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,Pre-infection,PreInf
+GSM846900_ED13_21d_LPL.CEL.gz,ED13 21d LPL,ED13,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,acute,Acute
+GSM846894_DN85_21d_LPL.CEL.gz,DN85 21d LPL,DN85,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,acute,Acute
+GSM846897_EB31_21d_LPL.CEL.gz,EB31 21d LPL,EB31,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,acute,Acute

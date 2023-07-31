@@ -1,0 +1,8 @@
+SAMPLE_NAMES,DESCRIPTION,SETS2,SETS2,REPLICATES,SETS3,SETS4,NAME,SETS
+GSM2610576_4_CM07_d26_14+16+.CEL.gz,CD14++CD16+ monocytes; day 26 post-SIV infection; biological rep 3,CD14PlusPlusCD16Plus,Day_26,Rep_3,CD14++CD16+_Day_26,CD14++CD16+_Day_26_Rep_3,CM07,acute
+GSM2610579_10_DB79_d26_14+16+.CEL.gz,CD14++CD16+ monocytes; day 26 post-SIV infection; biological rep 1,CD14PlusPlusCD16Plus,Day_26,Rep_1,CD14++CD16+_Day_26,CD14++CD16+_Day_26_Rep_1,DB79,acute
+GSM2610582_16_FB92_d26_14+16+.CEL.gz,CD14++CD16+ monocytes; day 26 post-SIV infection; biological rep 2,CD14PlusPlusCD16Plus,Day_26,Rep_2,CD14++CD16+_Day_26,CD14++CD16+_Day_26_Rep_2,FB92,acute
+GSM2610585_22_FD05_d26_14+16+.CEL.gz,CD14++CD16+ monocytes; day 26 post-SIV infection; biological rep 4,CD14PlusPlusCD16Plus,Day_26,Rep_4,CD14++CD16+_Day_26,CD14++CD16+_Day_26_Rep_4,FD05,acute
+GSM2610577_6_CM07_Nx_14+16+.CEL.gz,CD14++CD16+ monocytes; SIV infection at necropsy with AIDS; biological rep 3,CD14PlusPlusCD16Plus,AIDS,Rep_3,CD14++CD16+_AIDS,CD14++CD16+_AIDS_Rep_3,CM07,chronic
+GSM2610580_12_DB79_Nx_14+16+.CEL.gz,CD14++CD16+ monocytes; SIV infection at necropsy with AIDS; biological rep 1,CD14PlusPlusCD16Plus,AIDS,Rep_1,CD14++CD16+_AIDS,CD14++CD16+_AIDS_Rep_1,DB79,chronic
+GSM2610583_18_FB92_Nx_14+16+.CEL.gz,CD14++CD16+ monocytes; SIV infection at necropsy with AIDS; biological rep 2,CD14PlusPlusCD16Plus,AIDS,Rep_2,CD14++CD16+_AIDS,CD14++CD16+_AIDS_Rep_2,FB92,chronic

@@ -1,0 +1,7 @@
+SAMPLE_NAME,SAMPLE,NAME,Tissue,Species,Cell type,Virus,SETS
+GSM846900_ED13_21d_LPL.CEL.gz,ED13 21d LPL,ED13,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,SIV,Acute
+GSM846894_DN85_21d_LPL.CEL.gz,DN85 21d LPL,DN85,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,SIV,Acute
+GSM846897_EB31_21d_LPL.CEL.gz,EB31 21d LPL,EB31,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,SIV,Acute
+GSM846901_ED13_90d_LPL.CEL.gz,ED13 90d LPL,ED13,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,SIV,Chronic
+GSM846895_DN85_90d_LPL.CEL.gz,DN85 90d LPL,DN85,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,SIV,Chronic
+GSM846898_EB31_90d_LPL.CEL.gz,EB31 90d LPL,EB31,intestine,Macaca mulatta,Lamina-Propria Lymphocytes,SIV,Chronic

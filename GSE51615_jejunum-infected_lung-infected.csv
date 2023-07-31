@@ -1,0 +1,11 @@
+SAMPLE_NAME,SAMPLE,DESCRIPTION,SETS1,SETS2,SETS
+GSM1249375_JEJ_NT_29943.CEL.gz,GSM1249375,Jejunum tissue: SIV infected; untreated macaque biological rep 1,Jejunum,infected,Jejunum_infected
+GSM1249376_JEJ_NT_30085.CEL.gz,GSM1249376,Jejunum tissue: SIV infected; untreated macaque biological rep 2,Jejunum,infected,Jejunum_infected
+GSM1249377_JEJ_NT_30266.CEL.gz,GSM1249377,Jejunum tissue: SIV infected; untreated macaque biological rep 3,Jejunum,infected,Jejunum_infected
+GSM1249378_JEJ_NT_31353.CEL.gz,GSM1249378,Jejunum tissue: SIV infected; untreated macaque biological rep 4,Jejunum,infected,Jejunum_infected
+GSM1249379_JEJ_NT_34030.CEL.gz,GSM1249379,Jejunum tissue: SIV infected; untreated macaque biological rep 5,Jejunum,infected,Jejunum_infected
+GSM1249386_LNG_NT_29943.CEL.gz,GSM1249386,Lung tissue: SIV infected; untreated macaque biological rep 1,Lung,infected,Lung_infected
+GSM1249387_LNG_NT_30085.CEL.gz,GSM1249387,Lung tissue: SIV infected; untreated macaque biological rep 2,Lung,infected,Lung_infected
+GSM1249388_LNG_NT_30266.CEL.gz,GSM1249388,Lung tissue: SIV infected; untreated macaque biological rep 3,Lung,infected,Lung_infected
+GSM1249389_LNG_NT_31353.CEL.gz,GSM1249389,Lung tissue: SIV infected; untreated macaque biological rep 4,Lung,infected,Lung_infected
+GSM1249390_LNG_NT_34030.CEL.gz,GSM1249390,Lung tissue: SIV infected; untreated macaque biological rep 5,Lung,infected,Lung_infected

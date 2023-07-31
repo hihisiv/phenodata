@@ -1,0 +1,13 @@
+SAMPLE_NAME,SAMPLE_ID,Species,SAMPLE_ORGAN,SETS
+GSM440057.CEL.gz,Cercocebus atys uninfected LN-FRs-replicate-1,SM,Lymph Node (LN) biopsies,atys_preInf
+GSM440058.CEL.gz,Cercocebus atys uninfected LN-FRs-replicate-2,SM,Lymph Node (LN) biopsies,atys_preInf
+GSM440059.CEL.gz,Cercocebus atys uninfected LN-Fuv-replicate-1,SM,Lymph Node (LN) biopsies,atys_preInf
+GSM440060.CEL.gz,Cercocebus atys uninfected LN-Fuv-replicate-2,SM,Lymph Node (LN) biopsies,atys_preInf
+GSM440069.CEL.gz,Macaca mulatta uninfected LN-RYe8-replicate-1,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440070.CEL.gz,Macaca mulatta uninfected LN-RYe8-replicate-2,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440071.CEL.gz,Macaca mulatta uninfected LN-RF8-replicate-1,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440072.CEL.gz,Macaca mulatta uninfected LN-RF8-replicate-2,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440073.CEL.gz,Macaca mulatta uninfected LN-34550-replicate-1,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440074.CEL.gz,Macaca mulatta uninfected LN-34550-replicate-2,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440075.CEL.gz,Macaca mulatta uninfected LN-31391-replicate-1,RM,Lymph Node (LN) biopsies,reshus_preInf
+GSM440076.CEL.gz,Macaca mulatta uninfected LN-31391-replicate-2,RM,Lymph Node (LN) biopsies,reshus_preInf

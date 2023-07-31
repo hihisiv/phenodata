@@ -1,0 +1,17 @@
+SAMPLE_NAME,SAMPLE_ID,Species,SAMPLE_ORGAN,SETS
+GSM440061.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FRs-replicate-1,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440062.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FRs-replicate-2,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440063.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FWv-replicate-1,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440064.CEL.gz,Cercocebus atys 14 dpi SIVsmm LN-FWv-replicate-2,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440065.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-Fuv-replicate-1,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440066.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-Fuv-replicate-2,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440067.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-FWv-replicate-1,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440068.CEL.gz,Cercocebus atys 30 dpi SIVsmm LN-FWv-replicate-2,SM,Lymph Node (LN) biopsies,atys_acute
+GSM440077.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R00034-replicate-1,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440078.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R00034-replicate-2,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440079.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-24037-replicate-1,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440080.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-24037-replicate-2,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440081.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R93047-replicate-1,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440082.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R93047-replicate-2,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440083.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R98032-replicate-1,RM,Lymph Node (LN) biopsies,reshus_acute
+GSM440084.CEL.gz,Macaca mulatta 14 dpi SIVmac239 LN-R98032-replicate-2,RM,Lymph Node (LN) biopsies,reshus_acute

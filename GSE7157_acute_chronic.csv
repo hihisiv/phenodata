@@ -1,0 +1,15 @@
+SAMPLE_NAME,DESCRIPTION,NAME,SETS
+GSM172376.cel.gz,Monkey 3324 at time point week 2,VL_3324_wk_2,acute
+GSM172380.cel.gz,Monkey 3333 at time point week 2,VL_3333_wk_2,acute
+GSM172384.cel.gz,Monkey 3334 at time point week 2,VL_3334_wk_2,acute
+GSM172388.cel.gz,Monkey 3336 at time point week 2,VL_3336_wk_2,acute
+GSM172392.cel.gz,Monkey 3337 at time point week 2,VL_3337_wk_2,acute
+GSM172368.cel.gz,Monkey 3318 at time point week 2,VL_3318_wk_2,acute
+GSM172372.cel.gz,Monkey 3319 at time point week 2,VL_3319_wk_2,acute
+GSM172377.cel.gz,Monkey 3324 at time point week 20,VL_3324_wk_20,chronic
+GSM172381.cel.gz,Monkey 3333 at time point week 20,VL_3333_wk_20,chronic
+GSM172385.cel.gz,Monkey 3334 at time point week 20,VL_3334_wk_20,chronic
+GSM172389.cel.gz,Monkey 3336 at time point week 20,VL_3336_wk_20,chronic
+GSM172393.cel.gz,Monkey 3337 at time point week 20,VL_3337_wk_20,chronic
+GSM172369.cel.gz,Monkey 3318 at time point week 20,VL_3318_wk_20,chronic
+GSM172373.cel.gz,Monkey 3319 at time point week 20,VL_3319_wk_20,chronic

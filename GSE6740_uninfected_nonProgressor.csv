@@ -1,0 +1,21 @@
+SAMPLE_NAME,DESCRIPTION,SETS,CELLS,SETS2,SEX,SAMPLE,DURATION_OF_INF(~MONTHS),AGE_(years)
+GSM155228.CEL.gz,Human Uninfected Sample N001-CD4+ T cells,Uninfected,CD4,Uninfected_CD4,male,N1,42,NA
+GSM155230.CEL.gz,Human Uninfected Sample N050-CD4+ T cells,Uninfected,CD4,Uninfected_CD4,male,N2,27,NA
+GSM155233.CEL.gz,Human Uninfected Sample N071-CD4+ T cells,Uninfected,CD4,Uninfected_CD4,male,N3,34,NA
+GSM155235.CEL.gz,Human Uninfected Sample N110-CD4+ T cells,Uninfected,CD4,Uninfected_CD4,male,N4,43,NA
+GSM155237.CEL.gz,Human Uninfected Sample N141-CD4+ T cells,Uninfected,CD4,Uninfected_CD4,male,N5,32,NA
+GSM155229.CEL.gz,Human Uninfected Sample N001-CD8+ T cells,Uninfected,CD8,Uninfected_CD8,male,N1,42,NA
+GSM155232.CEL.gz,Human Uninfected Sample N050-CD8+ T cells,Uninfected,CD8,Uninfected_CD8,male,N2,27,NA
+GSM155234.CEL.gz,Human Uninfected Sample N071-CD8+ T cells,Uninfected,CD8,Uninfected_CD8,male,N3,34,NA
+GSM155236.CEL.gz,Human Uninfected Sample N110-CD8+ T cells,Uninfected,CD8,Uninfected_CD8,male,N4,43,NA
+GSM155238.CEL.gz,Human Uninfected Sample N141-CD8+ T cells,Uninfected,CD8,Uninfected_CD8,male,N5,32,NA
+GSM155218.CEL.gz,Human Non-progressor HIV Sample L004-CD4+ T cells,Non-progressor,CD4,Non-progressor_CD4,male,L1,59,15
+GSM155220.CEL.gz,Human Non-progressor HIV Sample L015-CD4+ T cells,Non-progressor,CD4,Non-progressor_CD4,male,L2,39,11
+GSM155222.CEL.gz,Human Non-progressor HIV Sample L115-CD4+ T cells,Non-progressor,CD4,Non-progressor_CD4,male,L3,34,9
+GSM155224.CEL.gz,Human Non-progressor HIV Sample L128-CD4+ T cells,Non-progressor,CD4,Non-progressor_CD4,male,L4,29,3.5
+GSM155226.CEL.gz,Human Non-progressor HIV Sample L134-CD4+ T cells,Non-progressor,CD4,Non-progressor_CD4,male,L5,44,12
+GSM155219.CEL.gz,Human Non-progressor HIV Sample L004-CD8+ T cells,Non-progressor,CD8,Non-progressor_CD8,male,L1,59,15
+GSM155221.CEL.gz,Human Non-progressor HIV Sample L015-CD8+ T cells,Non-progressor,CD8,Non-progressor_CD8,male,L2,39,11
+GSM155223.CEL.gz,Human Non-progressor HIV Sample L115-CD8+ T cells,Non-progressor,CD8,Non-progressor_CD8,male,L3,34,9
+GSM155225.CEL.gz,Human Non-progressor HIV Sample L128-CD8+ T cells,Non-progressor,CD8,Non-progressor_CD8,male,L4,29,3.5
+GSM155227.CEL.gz,Human Non-progressor HIV Sample L134-CD8+ T cells,Non-progressor,CD8,Non-progressor_CD8,male,L5,44,12
